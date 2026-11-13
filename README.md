@@ -1,5 +1,12 @@
 # 💫 About Me:
-<br>🔭  I'm currently working on Machine learning projects.<br>👯  I'm looking to collaborate in Model development, optimization and Software development.<br>🤝  I'm looking for help with Database resources.<br>🌱  I'm currently learning Java.<br>💬 Ask me about Languages, Movies, AI and Science related arenas.<br>⚡Fun fact about me, I can do three things at a time.
+
+🔭 I'm currently engineering **Edge-AI & Hardware-Accelerated Machine Learning** systems (quantized CNNs, FPGA synthesis, and privacy-first AI products).<br>
+👯 I'm looking to collaborate on **Model Optimization (PTQ/QAT)**, **Hardware-Software Co-Design**, and **Full-Stack Software Development**.<br>
+🤝 I'm always open to exchanging ideas on **scalable database architectures** and low-latency data pipelines.<br>
+🌱 I'm currently deepening my skills in **Java (OOP)** and system-level optimization.<br>
+💬 Ask me about **AI, Science, Languages, and Movies**.<br>
+⚡ Fun fact: I can genuinely juggle three complex tasks at once without dropping a beat.
+
 
 
 ## 🌐 Socials:
